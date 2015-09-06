@@ -1,5 +1,13 @@
 {
-  "name": "satahippy/fake-api-server-scaffolding",
+  "name": "satahippy/fake-api-server-scaff",
+  "description": "Fake API Server Scaffolding",
+  "authors": [
+    {
+      "name": "satahippy",
+      "email": "satahippy@gmail.com"
+    }
+  ],
+  "license": "MIT",
   "require": {
     "silex/silex": "~1.3",
     "symfony/psr-http-message-bridge": "~0.1",
