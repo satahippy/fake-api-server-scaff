@@ -1,0 +1,15 @@
+{
+  "rows": [
+    {
+      "id": 3,
+      "title": "Post #3",
+      "content": "This is the text of Post #3"
+    },
+    {
+      "id": 4,
+      "title": "Post #4",
+      "content": "This is the text of Post #4"
+    }
+  ],
+  "total": 10
+}
